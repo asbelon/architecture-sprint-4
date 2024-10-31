@@ -69,3 +69,9 @@ CLOSED [CRM] — заказ завершён. Он закрывается пос
 2. Постоение мониторинга методом RED сервисов Internet Shop, Shop API, CRM, CRM API, MES API, MES и баз данных Shop 
    DB и MES db, очередей Messages Queue
 3. Логирование в Internet Shop, Shop API, CRM, CRM API, MES API, MES на стеке ELK
+4. Трейсинг
+
+# Задание 2. Мониторинг
+# Задание 3. Трейсинг
+# Задание 4. Логирование
+# Задание 5. Кеширование
